@@ -15,7 +15,7 @@ print("hola")
 
 
 screen.fill("purple")
-
+a = 10
 
 pygame.display.flip()
 
